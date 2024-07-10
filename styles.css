@@ -1,0 +1,40 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estilo para Ejercicio 1 */
+  .texto-destacado {
+    color: #ff6347; /* Tomate */
+  }
+  
+  /* Estilo para Ejercicio 2 */
+  .titulo-blog {
+    color: #32cd32; /* Verde lima */
+    font-weight: bold;
+  }
+  
+  /* Estilo para Ejercicio 3 */
+  .urgente {
+    color: #ff0000; /* Rojo */
+    font-weight: bold;
+  }
+  
+  /* Estilo para Ejercicio 5 */
+  .contenedor {
+    margin: 20px;
+    border: 2px solid blue;
+    padding: 10px;
+    width: 50%;
+  }
+  
+  /* Estilo para Ejercicio 6 */
+  p {
+    margin: 10px 30px;
+    border: 1px dashed green;
+    padding: 15px;
+    width: 70%;
+  }
+  
